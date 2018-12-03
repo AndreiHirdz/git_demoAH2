@@ -7,3 +7,8 @@ remote changes !!! :)
 
 new row3333!!!^^^
 >>>>>>> 267045cac12ba9e9e593167f5fd60f65da095a5e
+
+CHANGE 6
+asdas asdas dasd
+asd asdasd
+as dasdasd

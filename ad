@@ -1,0 +1,54 @@
+[33mcommit f4647f8c62dd07a24027d65ab6e504da9d48e4c2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Andrei Hirdz <andrei_hirdz@epam.com>
+Date:   Mon Dec 3 20:34:36 2018 +0300
+
+    Revert "change 6"
+    
+    This reverts commit 544d60b6ed596c518fb710ea0ab03f360c095605.
+    I`m tota! :)
+
+[33mcommit 544d60b6ed596c518fb710ea0ab03f360c095605[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Andrei Hirdz <andrei_hirdz@epam.com>
+Date:   Mon Dec 3 20:30:31 2018 +0300
+
+    change 6
+
+[33mcommit 1d8f724bcb28b0fdffc88123ceace372ca56fe3a[m
+Merge: a33ec6b 267045c
+Author: Andrei Hirdz <andrei_hirdz@epam.com>
+Date:   Mon Dec 3 20:28:17 2018 +0300
+
+    Merge branch 'master' of https://github.com/AndreiHirdz/git_demoAH2
+    
+    # Conflicts:
+    #       Ahtest.txt
+
+[33mcommit a33ec6bc5415b2fb5b311694f047402eaf4bd69d[m
+Author: AndreiHirdz <45567657+AndreiHirdz@users.noreply.github.com>
+Date:   Mon Dec 3 19:12:29 2018 +0300
+
+    Update Ahtest.txt
+
+[33mcommit 267045cac12ba9e9e593167f5fd60f65da095a5e[m
+Author: Andrei Hirdz <andrei_hirdz@epam.com>
+Date:   Mon Dec 3 19:26:30 2018 +0300
+
+    add changes3 :)
+
+[33mcommit 7c8dadf23b45dd2a7eca9247bc91d7081cc0fa08[m
+Author: AndreiHirdz <45567657+AndreiHirdz@users.noreply.github.com>
+Date:   Mon Dec 3 19:12:29 2018 +0300
+
+    Update Ahtest.txt
+
+[33mcommit 2302c6744bfbf9fe84013f448474fd7039fe6359[m
+Author: Andrei Hirdz <andrei_hirdz@epam.com>
+Date:   Mon Dec 3 19:08:07 2018 +0300
+
+    add first file ahtest.txt
+
+[33mcommit f75465deb9e50440322e6bcccd1608e38483609b[m
+Author: AndreiHirdz <45567657+AndreiHirdz@users.noreply.github.com>
+Date:   Mon Dec 3 18:38:52 2018 +0300
+
+    Initial commit
